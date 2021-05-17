@@ -18,3 +18,6 @@ namespace Hello_worod
 }
 
 Welp, i ceartinly didn't copy-paste it by creating new console project. Whatever...
+
+Damn boy, now that i'm reading this, it seems like my typos are pretty betty pitty boo. Youprobably got what i wanted to mean. 
+P.S. And im starting to learn that, README.md file is not where we write the code ^^ So it's pretty big improvement from my last time)
